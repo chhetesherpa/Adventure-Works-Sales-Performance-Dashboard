@@ -3,7 +3,7 @@
 # 🚴 Adventure Works Sales & Performance Dashboard (Power BI)
 
 
-📌 # Project Overview
+#  📌 Project Overview
 
 This project is an end-to-end Power BI dashboard built using the Adventure Works Bike Store dataset as part of the Maven Analytics – Power BI Desktop Course.
 
