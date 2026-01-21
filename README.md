@@ -117,7 +117,7 @@ Note: This dataset is used strictly for educational and portfolio purposes.
 
 # 📸 Dashboard Preview
 
-![Executive Dashboard](dashboard_pages/Exec_Dashboard.png)
+![Executive Dashboard](dashboard_pages/executive_dashboard.png)
 
 
 # 🚀 How to Use This Project
