@@ -1,6 +1,4 @@
-# Adventure-Works-Sales-Performance-Dashboard
-
-# 🚴 Adventure Works Sales & Performance Dashboard (Power BI)
+# Project: 🚴 Adventure Works Sales & Performance Dashboard (Power BI)
 
 
 #  📌 Project Overview
@@ -21,7 +19,7 @@ c) Write DAX measures for advanced analytics
 d) Design interactive, executive-ready dashboards
 
 
-🧠 # Business Objectives
+#  🧠 Business Objectives
 
 The dashboard answers key business questions such as:
 
@@ -37,15 +35,15 @@ The dashboard answers key business questions such as:
 
    
 
-📊 # Dashboard Features
-🔹 # Executive Overview
+# 📊 Dashboard Features
+# 🔹 Executive Overview
 
 - Total Revenue, Profit, Orders, and Customers
 - Year-over-Year performance tracking
 - KPI indicators with trend analysis
   
 
-🔹 # Sales & Product Analysis
+# 🔹 Sales & Product Analysis
 
 - Revenue by product category 
 - Top 10 performing products
@@ -55,7 +53,7 @@ The dashboard answers key business questions such as:
 - Monthly Profit vs Target 
   
 
-🔹 # Customer Insights
+# 🔹 Customer Insights
 
 - Customer segmentation
 - Top customers by revenue
@@ -64,20 +62,20 @@ The dashboard answers key business questions such as:
 - Overall Trend in count of 'Total Customer'
   
 
-🔹 Geographic Analysis
+# 🔹 Geographic Analysis
 
 - Sales by country
 - Interactive map visualizations
 
-🔹 Time Intelligence
+# 🔹 Time Intelligence
 
  - Monthly and yearly trends
 
-🔹 Dynamic filtering using buttons and slicers
+# 🔹 Dynamic filtering using buttons and slicers
 
 
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 1) Power BI Desktop
 
@@ -90,7 +88,7 @@ The dashboard answers key business questions such as:
 5) GitHub – Project versioning & portfolio hosting
    
 
-🧩 Key DAX Concepts Implemented
+# 🧩 Key DAX Concepts Implemented
 
 a) Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR)
 
@@ -103,7 +101,7 @@ d) Ranking and Top N analysis
 e) Dynamic measures using slicers
 
 
-📂 Dataset
+# 📂 Dataset
 
 Source: Adventure Works sample database (used in Maven Analytics course)
 
