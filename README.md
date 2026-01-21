@@ -3,7 +3,7 @@
 # 🚴 Adventure Works Sales & Performance Dashboard (Power BI)
 
 
-#📌 Project Overview
+📌 # Project Overview
 
 This project is an end-to-end Power BI dashboard built using the Adventure Works Bike Store dataset as part of the Maven Analytics – Power BI Desktop Course.
 
@@ -21,7 +21,7 @@ c) Write DAX measures for advanced analytics
 d) Design interactive, executive-ready dashboards
 
 
-🧠 Business Objectives
+🧠 # Business Objectives
 
 The dashboard answers key business questions such as:
 
@@ -37,15 +37,15 @@ The dashboard answers key business questions such as:
 
    
 
-📊 Dashboard Features
-🔹 Executive Overview
+📊 # Dashboard Features
+🔹 # Executive Overview
 
 - Total Revenue, Profit, Orders, and Customers
 - Year-over-Year performance tracking
 - KPI indicators with trend analysis
   
 
-🔹 Sales & Product Analysis
+🔹 # Sales & Product Analysis
 
 - Revenue by product category 
 - Top 10 performing products
@@ -55,7 +55,7 @@ The dashboard answers key business questions such as:
 - Monthly Profit vs Target 
   
 
-🔹 Customer Insights
+🔹 # Customer Insights
 
 - Customer segmentation
 - Top customers by revenue
