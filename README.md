@@ -127,24 +127,13 @@ Interact with slicers and visuals to explore insights
 
 # 📈 Key Learnings
 
-Translating business requirements into analytical dashboards
+a) Translating business requirements into analytical dashboards
 
-Building clean and scalable data models
+b) Building clean and scalable data models
 
-Writing optimized DAX for real-world scenarios
+c) Writing optimized DAX for real-world scenarios
 
-Designing dashboards for business stakeholders
-
-
-# 🔮 Future Enhancements
-
-Add forecasting using Power BI analytics
-
-Implement Row-Level Security (RLS)
-
-Publish to Power BI Service
-
-Add drill-through and tooltip pages
+d) Designing dashboards for business stakeholders
 
 
 # ⭐ Acknowledgements
