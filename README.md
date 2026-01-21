@@ -120,11 +120,17 @@ Note: This dataset is used strictly for educational and portfolio purposes.
 Page 1 -Executive Dashboard
 ![Executive Dashboard](dashboard_pages/executive_dashboard.png)
 
+
+
 Page 2 - Map
 ![Executive Dashboard](dashboard_pages/Map.png)
 
+
+
 Page 3 - Product Detail
 ![Executive Dashboard](dashboard_pages/product.png)
+
+
 
 Page 4 - Customer Detail
 ![Executive Dashboard](dashboard_pages/revenue_per_customer.png)
