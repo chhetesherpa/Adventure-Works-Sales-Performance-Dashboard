@@ -114,3 +114,41 @@ Data Includes:
 5) Geographic data
 
 Note: This dataset is used strictly for educational and portfolio purposes.
+
+
+# 🚀 How to Use This Project
+
+Clone or download the repository
+
+Open the .pbix file in Power BI Desktop
+
+Interact with slicers and visuals to explore insights
+
+
+# 📈 Key Learnings
+
+Translating business requirements into analytical dashboards
+
+Building clean and scalable data models
+
+Writing optimized DAX for real-world scenarios
+
+Designing dashboards for business stakeholders
+
+
+# 🔮 Future Enhancements
+
+Add forecasting using Power BI analytics
+
+Implement Row-Level Security (RLS)
+
+Publish to Power BI Service
+
+Add drill-through and tooltip pages
+
+
+# ⭐ Acknowledgements
+
+a) Maven Analytics for the Power BI Desktop course
+
+b) Microsoft for the Adventure Works sample dataset
